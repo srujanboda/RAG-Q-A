@@ -61,7 +61,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📝Chat With your docs 😎")
+st.title("📝Chat With your documents/pdf")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
