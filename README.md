@@ -1,7 +1,4 @@
-# RAG-Q-A
-This project implements a Retrieval-Augmented Generation (RAG) approach for building an efficient Question-Answering (Q&amp;A) system. By combining retrieval-based techniques with generative models, the system delivers precise and contextually rich answers to user queries.
-
-**RAG Q&A Project**  
+# RAG-Q&A Project
 
 This project implements a Retrieval-Augmented Generation (RAG) system designed to answer user queries based on the content of uploaded PDFs or web links. By combining retrieval-based techniques with generative AI, the application provides accurate, context-aware answers derived from the provided documents or links.  
 
